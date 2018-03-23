@@ -1,5 +1,5 @@
 <?php
-    $con = mysqli_connect("mysql10.000webhost.com", "a3288368_user", "abcd1234", "a3288368_data");
+    $con = mysqli_connect("localhost", "id5165457_carlesciurans", "webhosting", "id5165457_members");
     
     $username = $_POST["username"];
     $password = $_POST["password"];
